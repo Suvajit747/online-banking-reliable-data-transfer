@@ -108,5 +108,5 @@ online-banking-reliable-data-transfer/
 | :--- | :--- | :--- | :--- |
 | **Suvajit Ray** | `24103610070` | `BWU/BCC/24/070` | [@username](https://github.com/username) |
 | **Ankit Raha** | `24103610062` | `BWU/BCC/24/062` | [@username](https://github.com/username) |
-| **Nondita Debnath** | `24103610080` | `BWU/BCC/24/080` | [@username](https://github.com/username) |
+| **Nondita Debnath** | `24103610080` | `BWU/BCC/24/080` | Nondita07 |
 | **Rahul Naskar** | `24103610081` | `BWU/BCC/24/081` | [@username](https://github.com/username) |
